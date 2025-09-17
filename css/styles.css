@@ -470,7 +470,7 @@ nav .mobile-nav {
     background-color: transparent;
     border: 1px groove var(--text-color);
     color:var(--text-color)
-    padding:5px;
+    padding: 5px 10px;
     margin-bottom: 10px;
     outline: none;
     resize: none;
