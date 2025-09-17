@@ -96,10 +96,10 @@ formspree-key:   https://formspree.io/f/mjkeqebv
 colors: # this is the basic theme
   text: "#E0E0E0"
   border: "#444444"
-  link: "#4a76ee"
+  link: "#B39CD0"
   highlight: "#888888"
-  background: "#121212"
-  light_background: "#454545"
+  background: "#1A1A1A"
+  light_background: "#3B3B3B"
 
 # A few examples. 
 basic theme:
