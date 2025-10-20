@@ -26,7 +26,7 @@ main-image: /FAFOBanner.jpg
 - 6 PWM/DSHOT outputs
 
 ### Schematics 
-{% include image-gallery.html images="Schematics.jpg" height="400" %} 
+{% include image-gallery.html images="Schematics.jpg" height="800" %} 
   
 
 To Be Continued...
