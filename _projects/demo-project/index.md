@@ -27,10 +27,12 @@ main-image: /FAFOBanner.jpg
 
 ## Schematics
 {% include image-gallery.html images="Schematics.jpg" height="800" %} 
-
+<br />
+<br />
 ## Layout
 {% include image-gallery.html images="Layout.png" height="800" %} 
-
+<br />
+<br />
 # Files
 [GitHub](https://github.com/Farasani/FAFO-Flight-Controller)\
 [Hackaday](https://hackaday.io/project/195476-fafo-flight-controller)
