@@ -13,12 +13,11 @@ title: Bassam Farasani's Portfolio # This is what shows up in the tab of the bro
 
 # Hero Section
 name: Bassam Farasani
-headline: Embedded Systems Engineer
+headline: Computer Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  An aspiring Engineer with a B.S. in Computer Engineering with an interest in Embedded Systems 
+  and Integrated Chips (IC) Manufacturing. I’m actively looking for opportunities that would help 
+  me in enhancing my skills and broaden my scope. I appreciate you taking time to check my page and feel free to contact me if needed.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/1711891151843.jpg
 
