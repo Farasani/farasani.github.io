@@ -25,15 +25,15 @@ main-image: /FAFOBanner.jpg
 - 1GB BlackBox
 - 6 PWM/DSHOT outputs
 
-### Schematics
+## Schematics
 {% include image-gallery.html images="Schematics.jpg" height="800" %} 
 
-### Layout
+## Layout
 {% include image-gallery.html images="Layout.png" height="800" %} 
 
 # Files
-[GitHub](https://github.com/Farasani/FAFO-Flight-Controller)
+[GitHub](https://github.com/Farasani/FAFO-Flight-Controller)\
 [Hackaday](https://hackaday.io/project/195476-fafo-flight-controller)
-  
 
-To Be Continued...
+
+### Work In Progress...
