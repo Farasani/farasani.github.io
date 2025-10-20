@@ -11,7 +11,7 @@ skills:
   - Drones
   - High Speed Signal
 
-main-image: /Banner.jpg
+main-image: /FAFOBanner.jpg
 ---
 
 ---
