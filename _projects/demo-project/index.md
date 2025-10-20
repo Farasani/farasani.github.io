@@ -15,6 +15,9 @@ main-image: /FAFOBanner.jpg
 ---
 
 ---
+# Status
+(Work In Progress)\
+The schematics are done and the layout is almost done and soon I will start prototyping Inshallah. stay tuned!
 # Specs
   • 168MHz STM32F405RGT6\
   • 5x UARTS serial ports\
