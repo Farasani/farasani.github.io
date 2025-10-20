@@ -16,14 +16,14 @@ main-image: /FAFOBanner.jpg
 
 ---
 # Specs
-- 168MHz STM32F405RGT6
-- 5x UARTS serial ports
-- I2C1
-- 6-Axis ICM-42688-P
-- MAX7456 OSD
-- BMP280 Barometer
-- 1GB BlackBox
-- 6 PWM/DSHOT outputs
+  • 168MHz STM32F405RGT6\
+  • 5x UARTS serial ports\
+  • I2C1\
+  • 6-Axis ICM-42688-P\
+  • MAX7456 OSD\
+  • BMP280 Barometer\
+  • 1GB BlackBox\
+  • 6 PWM/DSHOT outputs
 
 ## Schematics
 {% include image-gallery.html images="Schematics.jpg" height="800" %} 
