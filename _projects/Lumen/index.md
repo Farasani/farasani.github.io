@@ -25,7 +25,7 @@ The first version is done, with the second version in-progress.
   • LIS2DW12TR Accelerometer\
 
 ## Schematics
-{% include image-gallery.html images="Schematics.jpg" height="800" %} 
+{% include image-gallery.html images="Schematics.png" height="800" %} 
 <br />
 <br />
 ## Layout
