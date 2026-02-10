@@ -1,32 +1,28 @@
 ---
 layout: post
-title: FAFO Flight Controller
-description:  F4 Flight Controller for quadcopter, hecxacopter and fixed wings drones.
+title: Lumen LED Keychain
+description:  Keychain with a LED matrix.
 skills: 
   - PCB Design
-  - KiCad
-  - SPI
+  - EasyEDA
   - I2C
-  - Soldering
+  - Small Package Soldering (0603, 0402...)
   - Drones
-  - High Speed Signal
+  - Charlieplexing
+
 
 main-image: /FAFOBanner.jpg
 ---
 
 ---
 # Status
-(Work In Progress)\
-The schematics are done and the layout is almost done and soon I will start prototyping Inshallah. stay tuned!
+(Complete)\
+The first version is done, with the second version in-progress.
 # Specs
-  • 168MHz STM32F405RGT6\
-  • 5x UARTS serial ports\
-  • I2C1\
-  • 6-Axis ICM-42688-P\
-  • MAX7456 OSD\
-  • BMP280 Barometer\
-  • 1GB BlackBox\
-  • 6 PWM/DSHOT outputs
+  • ATTINY1616 Microcontroller\
+  • IS31FL3731 Charlieplex LED Driver\
+  • MCP73832T Battery Charger\
+  • LIS2DW12TR Accelerometer\
 
 ## Schematics
 {% include image-gallery.html images="Schematics.jpg" height="800" %} 
