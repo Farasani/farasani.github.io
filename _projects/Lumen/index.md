@@ -17,7 +17,9 @@ main-image: /LumenBanner.png
 ---
 {% include image-gallery.html images="LumenGIF.gif" height="800" %} 
 
-This project was submited as the final project for the Electronic Circuit Design And Manufacturing Bootcamp. I tried to challenge myself by designing with having production in mind, So I foucsed on three main criteria: to be Cost Effective, Have a Small Package and Power Efficiency. I have utilized the ATTiny1616 for it's power efficiency and cost with more than enough memory (Could have even went with the ATTiny85 but wanted to play it safe). I also took advantage of Charlieplexing which cut the number traces and pins to insure smaller package. With usilizing the ATTiny sleep mode with using the interrupt signal from the accelerometer to wake-up the MCU to insure power efficiency.
+# Objective
+This project was submited as the final project for the Electronic Circuit Design And Manufacturing Bootcamp.
+I tried to challenge myself by designing with having production in mind, So I foucsed on three main criteria: to be Cost Effective, Have a Small Package and Power Efficiency. I have utilized the ATTiny1616 for it's power efficiency and cost with more than enough memory (Could have even went with the ATTiny85 but wanted to play it safe). I also took advantage of Charlieplexing which cut the number traces and pins to insure smaller package. With usilizing the ATTiny sleep mode with using the interrupt signal from the accelerometer to wake-up the MCU to insure power efficiency.
 
 # Status
 (Complete)\
