@@ -15,6 +15,9 @@ main-image: /LumenBanner.png
 ---
 
 ---
+{% include image-gallery.html images="LumenGIF.gif" height="800" %} 
+
+
 # Status
 (Complete)\
 The first version is done, with the second version in-progress.
@@ -37,4 +40,4 @@ The first version is done, with the second version in-progress.
 [Hackaday](https://hackaday.io/project/195476-fafo-flight-controller)
 
 
-### Work In Progress...
+
