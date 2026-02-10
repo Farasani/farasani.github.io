@@ -11,7 +11,7 @@ skills:
   - Charlieplexing
 
 
-main-image: /FAFOBanner.jpg
+main-image: /LumenBanner.png
 ---
 
 ---
