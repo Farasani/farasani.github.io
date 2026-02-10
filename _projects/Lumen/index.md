@@ -15,8 +15,9 @@ main-image: /LumenBanner.png
 ---
 
 ---
-## GIF
+
 {% include image-gallery.html images="LumenGIF.gif" height="800" %} 
+<br />
 
 # Objective
 This project was submited as the final project for the Electronic Circuit Design And Manufacturing Bootcamp.
