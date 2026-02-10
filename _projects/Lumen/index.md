@@ -15,6 +15,7 @@ main-image: /LumenBanner.png
 ---
 
 ---
+## GIF
 {% include image-gallery.html images="LumenGIF.gif" height="800" %} 
 
 # Objective
