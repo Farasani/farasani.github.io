@@ -26,7 +26,7 @@ The first version is done, with the second version in-progress.
   • ATTINY1616 Microcontroller\
   • IS31FL3731 Charlieplex LED Driver\
   • MCP73832T Battery Charger\
-  • LIS2DW12TR Accelerometer\
+  • LIS2DW12TR Accelerometer
 
 ## Schematics
 {% include image-gallery.html images="Schematic.png" height="800" %} 
